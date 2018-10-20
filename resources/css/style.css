@@ -13,7 +13,7 @@ h1 {
   color: white;
 }
 
-nav a {
+a {
   font-size: 18px;
   color: white;
 }
@@ -37,4 +37,11 @@ section p {
   font-size: 23px;
   font-weight: bold;
   color: white;
+}
+
+footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
 }
